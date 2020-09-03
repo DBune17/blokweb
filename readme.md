@@ -56,11 +56,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Blauwe piste 
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** Zoals ik er nu tegenaan kijk denk ik dat ik voor helemaal responsive wil gaan
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** Ik heb jammer genoeg nog geen site gevonden waarvan ik zeg deze vind ik tof en interesant om te onderzoeken en om vervolgend na te maken. Zou hier graag een beetje hulp bij willen
 
 **Screenshot(s):**
 
