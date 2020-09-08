@@ -60,11 +60,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Zoals ik er nu tegenaan kijk denk ik dat ik voor helemaal responsive wil gaan
 
-**Je opdracht:** Ik heb jammer genoeg nog geen site gevonden waarvan ik zeg deze vind ik tof en interesant om te onderzoeken en om vervolgend na te maken. Zou hier graag een beetje hulp bij willen
+**Je opdracht:** https://www.guerrilla-games.com/explore
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken]
+(images/Guerilla screenshot 1.png)
 
 **Breakdown-schets(en):**
 
